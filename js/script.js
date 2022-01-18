@@ -1,4 +1,4 @@
-// question 1
+// oppgave 1
 var pets = [
     {
         animal: "pet",
@@ -22,7 +22,7 @@ var pets = [
       }
   }
 
-  // question 2
+  // oppgave 2
   function restrictionAge(age) {
     console.log("age");
     if (age >= 18) {
@@ -40,7 +40,7 @@ var pets = [
     alert( "Access denied" );
   }
 
-  // question 3
+  // oppgave 3
   var heading = document.querySelector("h2")
   var button = document.querySelector("button")
   var buttonColours = document.querySelector(".colours")
